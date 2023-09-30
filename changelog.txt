@@ -1,0 +1,5 @@
+== 1.3.5 ==
+* Add importer demo tab.
+* Add recommend easymega plugin.
+== 1.3.4 ==
+Imporve theme and fix issues.
